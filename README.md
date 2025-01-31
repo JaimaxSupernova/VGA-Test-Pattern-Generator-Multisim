@@ -1,6 +1,6 @@
 # CE264 Multisim Designs
 
-This repository contains all Multisim files for my CE264 (Digital Sytsem Design) project. The project focuses on FPGA-based digital system design, including:
+This repository contains all Multisim files for my CE264 (Digital System Design) project. The project focuses on FPGA-based digital system design, including:
 
 ## Features
 - **7-Segment Display Driver**
